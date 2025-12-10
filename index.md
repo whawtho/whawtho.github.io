@@ -18,3 +18,6 @@ Looking back at everything I have learned, I can see how each course contributed
 
 ### Software Design and Engineering
 [Narrative & Artifacts](software-design.md)
+
+### Algorithms and Data Structures
+[Narrative & Artifacts](algorithms.md)
