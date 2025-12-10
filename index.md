@@ -15,3 +15,6 @@ Looking back at everything I have learned, I can see how each course contributed
 
 ### Code Review
 [Watch My Code Review](code-review.html)
+
+### Software Design and Engineering
+[Narrative & Artifacts](software-design.md)
