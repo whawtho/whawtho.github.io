@@ -13,20 +13,31 @@ Below are the key differences between the original artifact and the enhanced ver
 Original version weaknesses:
 
 •	The XOR function assumed the key was always valid
+
 •	No error handling existed around the algorithm
+
 •	An empty or missing input file caused undefined behavior
+
 •	The encryption loop wrote directly into the source buffer
+
 •	Output building did not use any explicit memory handling
+
 •	The algorithm, file reading, and error handling were all mixed together
 
 Enhanced version improvements:
 
 •	Added validation so the key must be non-empty
+
 •	Added protection against reading an empty or missing input file
+
 •	Rewrote the output-building logic to use reserve() and push_back() which is safer and more intentional
+
 •	Added structured try/catch blocks so encryption errors do not crash the program
+
 •	Introduced clearer separation between the algorithm and the file I/O workflow
+
 •	Improved the handling of fallback scenarios when the file is not found
+
 •	Added more explicit checks that data was successfully loaded before running the algorithm
 
 These changes strengthened the entire program. The encryption algorithm now validates its inputs, handles error conditions, and produces predictable behavior even under unusual scenarios. The changes also show improvement in the algorithmic logic without changing the core purpose of the artifact.
