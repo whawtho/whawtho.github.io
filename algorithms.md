@@ -10,7 +10,7 @@ The main enhancement for this milestone involved strengthening the encryption fu
 
 Below are the key differences between the original artifact and the enhanced version:
 
-Original version weaknesses:
+**Original version weaknesses:**
 
 •	The XOR function assumed the key was always valid
 
@@ -24,7 +24,7 @@ Original version weaknesses:
 
 •	The algorithm, file reading, and error handling were all mixed together
 
-Enhanced version improvements:
+**Enhanced version improvements:**
 
 •	Added validation so the key must be non-empty
 
