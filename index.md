@@ -1,10 +1,16 @@
+<style>
+  /* Hide the first H1 on this page (the big blue "Zeb Hawthorne") */
+  h1:first-of-type {
+    display: none;
+  }
+</style>
+
 <nav style="background-color:#f5f5f5; padding: 10px; border-bottom: 1px solid #ddd;">
     <a href="/" style="margin-right: 20px;">Home</a>
     <a href="code-review.html" style="margin-right: 20px;">Code Review</a>
     <a href="software-design" style="margin-right: 20px;">Software Design</a>
     <a href="algorithms" style="margin-right: 20px;">Algorithms & Data Structures</a>
     <a href="databases" style="margin-right: 20px;">Databases</a>
-
     <!-- Right-aligned name -->
     <span style="float:right; font-weight:bold;">Zeb Hawthorne</span>
 </nav>
@@ -24,14 +30,4 @@ Another important part of my growth came from recognizing how industrial automat
 
 Looking back at everything I have learned, I can see how each course contributed to my development. I have gained confidence in designing software systems, choosing the right data structures, securing data, and documenting my work. These skills apply directly to my career in industrial automation, and they also give me the option to take on more software heavy engineering roles in the future. My ePortfolio brings all of this together. It shows the enhancements I made, why I made them, and the skills I demonstrated as I worked through each one. It represents my development as a computer science professional and the value this degree brings to my work and career.
 
-### Code Review
-[Watch My Code Review](code-review.html)
 
-### Software Design and Engineering
-[Narrative & Artifacts](software-design.md)
-
-### Algorithms and Data Structures
-[Narrative & Artifacts](algorithms.md)
-
-### Databases
-[Narrative & Artifacts](databases.md)
