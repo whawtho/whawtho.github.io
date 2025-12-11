@@ -1,12 +1,12 @@
-<nav style="display:flex; justify-content:space-between; align-items:center; padding:10px 0; border-bottom:1px solid #ccc; font-size:18px;">
-    <div style="display:flex; gap:20px;">
-        <a href="/CS499_ePortfolio/">Home</a>
-        <a href="/CS499_ePortfolio/code-review">Code Review</a>
-        <a href="/CS499_ePortfolio/software-design">Software Design</a>
-        <a href="/CS499_ePortfolio/algorithms">Algorithms & Data</a>
-        <a href="/CS499_ePortfolio/databases">Databases</a>
-    </div>
-    <div style="font-weight:bold;">Zeb Hawthorne</div>
+<nav style="display:flex; justify-content:space-between; align-items:center; padding:12px 0; border-bottom:1px solid #ccc; font-size:18px;">
+  <div style="display:flex; gap:20px;">
+    <a href="/index.md">Home</a>
+    <a href="/code-review.html">Code Review</a>
+    <a href="/software-design">Software Design</a>
+    <a href="/algorithms">Algorithms & Data</a>
+    <a href="/databases">Databases</a>
+  </div>
+  <div style="font-weight:bold;">Zeb Hawthorne</div>
 </nav>
 
 ### Professional Self-Assessment
