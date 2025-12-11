@@ -1,8 +1,7 @@
 <style>
-  .site-title,
-  .site-title a,
-  header.site-header .site-title {
-    display: none !important;
+  /* Hide the first H1 on this page (the big blue "Zeb Hawthorne") */
+  h1:first-of-type {
+    display: none;
   }
 </style>
 
