@@ -1,3 +1,14 @@
+<nav style="display:flex; justify-content:space-between; align-items:center; padding:12px 0; border-bottom:1px solid #ccc; font-size:18px;">
+  <div style="display:flex; gap:20px;">
+    <a href="/">Home</a>
+    <a href="/code-review.html">Code Review</a>
+    <a href="/software-design">Software Design</a>
+    <a href="/algorithms">Algorithms & Data</a>
+    <a href="/databases">Databases</a>
+  </div>
+  <div style="font-weight:bold;">Zeb Hawthorne</div>
+</nav>
+
 # Algorithms and Data Structures
 
 The artifact I chose for the algorithms and data structures category is my Module 5 encryption.cpp program originally created in CS-405. The original version of this file used a simple XOR-based encryption function along with some basic input and output logic. It read a text file, applied the XOR transform with a key, and saved the encrypted and decrypted results. The original code worked, but the algorithm did not perform any input validation, and it did not protect itself from invalid states or missing data. This made it a good candidate for improvement in this course.
