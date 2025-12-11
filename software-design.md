@@ -1,12 +1,10 @@
-<nav style="display:flex; justify-content:space-between; align-items:center; padding:12px 0; border-bottom:1px solid #ccc; font-size:18px;">
-  <div style="display:flex; gap:20px;">
-    <a href="/">Home</a>
-    <a href="/code-review.html">Code Review</a>
-    <a href="/software-design">Software Design</a>
-    <a href="/algorithms">Algorithms & Data</a>
-    <a href="/databases">Databases</a>
-  </div>
-  <div style="font-weight:bold;">Zeb Hawthorne</div>
+<nav style="background-color:#f5f5f5; padding: 10px; border-bottom: 1px solid #ddd;">
+    <a href="/" style="margin-right: 20px;">Home</a>
+    <a href="code-review.html" style="margin-right: 20px;">Code Review</a>
+    <a href="algorithms" style="margin-right: 20px;">Algorithms & Data Structures</a>
+    <a href="databases" style="margin-right: 20px;">Databases</a>
+    <!-- Right-aligned name -->
+    <span style="float:right; font-weight:bold;">Zeb Hawthorne</span>
 </nav>
 
 # Software Design and Engineering
