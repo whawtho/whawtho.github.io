@@ -1,8 +1,11 @@
 <style>
-  .site-title {
-    display: none;
+  .site-title,
+  .site-title a,
+  header.site-header .site-title {
+    display: none !important;
   }
 </style>
+
 
 
 <nav style="background-color:#f5f5f5; padding: 10px; border-bottom: 1px solid #ddd;">
