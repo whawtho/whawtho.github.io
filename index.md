@@ -1,3 +1,14 @@
+<nav style="display:flex; justify-content:space-between; align-items:center; padding:10px 0; border-bottom:1px solid #ccc; font-size:18px;">
+    <div style="display:flex; gap:20px;">
+        <a href="/CS499_ePortfolio/">Home</a>
+        <a href="/CS499_ePortfolio/code-review">Code Review</a>
+        <a href="/CS499_ePortfolio/software-design">Software Design</a>
+        <a href="/CS499_ePortfolio/algorithms">Algorithms & Data</a>
+        <a href="/CS499_ePortfolio/databases">Databases</a>
+    </div>
+    <div style="font-weight:bold;">Zeb Hawthorne</div>
+</nav>
+
 ### Professional Self-Assessment
 
 My Computer Science degree has given me a strong foundation in software development, problem solving, and secure design. I entered the program with years of experience in industrial automation and controls, and I originally thought computer science would only support my day to day work in small ways. Over time, I learned that software engineering principles directly support how modern automation systems are designed, connected, and maintained. Because of this, the program has helped me grow both as a developer and as a controls engineer. Throughout the program, I gained experience with software engineering, data structures, algorithms, and secure coding practices. The artifacts I selected for my ePortfolio show how these skills developed over time and how they align with the program outcomes.
