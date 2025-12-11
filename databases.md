@@ -1,3 +1,14 @@
+<nav style="display:flex; justify-content:space-between; align-items:center; padding:12px 0; border-bottom:1px solid #ccc; font-size:18px;">
+  <div style="display:flex; gap:20px;">
+    <a href="/">Home</a>
+    <a href="/code-review.html">Code Review</a>
+    <a href="/software-design">Software Design</a>
+    <a href="/algorithms">Algorithms & Data</a>
+    <a href="/databases">Databases</a>
+  </div>
+  <div style="font-weight:bold;">Zeb Hawthorne</div>
+</nav>
+
 # Databases
 
 The artifact I selected for the databases category is my encryption project from CS-405, originally created in 2024. The program was built to read a text file, encrypt its contents with a basic XOR algorithm, and then write the encrypted and decrypted results back to new files. It worked, but the project had no form of persistent storage beyond file output. For this milestone, I added a SQLite database to store encryption logs, timestamps, keys used, and the encrypted output. This turns the program into something that treats data more like a real application instead of a simple file demo.
