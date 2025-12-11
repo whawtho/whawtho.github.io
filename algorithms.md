@@ -16,7 +16,7 @@
 
 # Algorithms and Data Structures
 
-The artifact I chose for the algorithms and data structures category is my Module 5 encryption.cpp program originally created in CS-405. The original version of this file used a simple XOR-based encryption function along with some basic input and output logic. It read a text file, applied the XOR transform with a key, and saved the encrypted and decrypted results. The original code worked, but the algorithm did not perform any input validation, and it did not protect itself from invalid states or missing data. This made it a good candidate for improvement in this course.
+The artifact I chose for the algorithms and data structures category is my Module 5 encryption.cpp program originally created in CS-405. The original version of this file is named *Mod5Encryption.cpp* and used a simple XOR-based encryption function along with some basic input and output logic. It read a text file, applied the XOR transform with a key, and saved the encrypted and decrypted results. The original code worked, but the algorithm did not perform any input validation, and it did not protect itself from invalid states or missing data. This made it a good candidate for improvement in this course.
 
 I selected this artifact because it demonstrates my ability to understand and work with core algorithmic concepts. The heart of the program is an encryption routine that processes data in a loop and applies a transformation to each character. The file also uses common data structures such as strings, streams, buffers, and character arrays. These are skills that show my ability to work with algorithm design, data handling, and input validation.
 
@@ -24,7 +24,7 @@ The artifact was also useful because there was clear room for improvement. The o
 
 The main enhancement for this milestone involved strengthening the encryption function and the dataflow around it. I kept the original XOR algorithm for continuity because the assignment is about enhancing the artifact rather than replacing it with something completely different. Instead of switching algorithms, I focused on making the existing logic more reliable, safer, and easier to maintain.
 
-Below are the key differences between the original artifact and the enhanced version:
+Below are the key differences between the original artifact and the enhanced version, named *CS-499_4-2_Milestone.cpp*:
 
 **Original version weaknesses:**
 
