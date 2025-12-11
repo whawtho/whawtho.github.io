@@ -1,6 +1,6 @@
 <nav style="display:flex; justify-content:space-between; align-items:center; padding:12px 0; border-bottom:1px solid #ccc; font-size:18px;">
   <div style="display:flex; gap:20px;">
-    <a href="/index.md">Home</a>
+    <a href="/">Home</a>
     <a href="/code-review.html">Code Review</a>
     <a href="/software-design">Software Design</a>
     <a href="/algorithms">Algorithms & Data</a>
