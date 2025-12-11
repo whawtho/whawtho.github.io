@@ -13,8 +13,6 @@ Overall, I learned how to expand a small program with a realistic data-handling 
 
 ## Artifact Files
 
-- **Original file(s)**  
-  https://github.com/whawtho/whawtho.github.io/tree/Databases/original
+- [**Original file(s)**](https://github.com/whawtho/whawtho.github.io/tree/Databases/Mod5Encryption%20-%20Original)
 
-- **Enhanced file(s)**  
-  https://github.com/whawtho/whawtho.github.io/tree/Databases/enhanced
+- [**Enhanced file(s)**](https://github.com/whawtho/whawtho.github.io/tree/Databases/Mod5Encryption%20-%20Database%20Enhanced)
