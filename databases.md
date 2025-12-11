@@ -13,7 +13,7 @@
     <a href="software-design" style="margin-right: 20px;">Software Design</a>
     <a href="algorithms" style="margin-right: 20px;">Algorithms & Data Structures</a>
     <!-- Right-aligned name -->
-    <span style="float:right; font-weight:bold;">Zeb Hawthorne CS Portfolio</span>
+    <span style="float:right; font-weight:bold;">Zeb Hawthorne - CS Portfolio</span>
 </nav>
 
 # Databases
