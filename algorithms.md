@@ -51,8 +51,6 @@ One of the challenges I faced was deciding how far to go with the enhancements w
 
 ## Artifact Files
 
-- **Original file(s)**  
-  https://github.com/whawtho/whawtho.github.io/tree/Algorithms-and-Data-Structure/original
+- [**Original file(s)**](https://github.com/whawtho/whawtho.github.io/tree/Algorithms-and-Data-Structure/Mod5Encryption%20-%20Original)
 
-- **Enhanced file(s)**  
-  https://github.com/whawtho/whawtho.github.io/tree/Algorithms-and-Data-Structure/enhanced
+- [**Enhanced file(s)**](https://github.com/whawtho/whawtho.github.io/tree/Algorithms-and-Data-Structure/Mod5_encryption%20-%20Enhanced)
