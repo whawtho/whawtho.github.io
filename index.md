@@ -12,7 +12,7 @@
     <a href="algorithms" style="margin-right: 20px;">Algorithms & Data Structures</a>
     <a href="databases" style="margin-right: 20px;">Databases</a>
     <!-- Right-aligned name -->
-    <span style="float:right; font-weight:bold;">Zeb Hawthorne</span>
+    <span style="float:right; font-weight:bold;">Zeb Hawthorne CS Portfolio</span>
 </nav>
 
 ### Professional Self-Assessment
