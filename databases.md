@@ -1,3 +1,10 @@
+<style>
+  .site-title {
+    display: none;
+  }
+</style>
+
+
 <nav style="background-color:#f5f5f5; padding: 10px; border-bottom: 1px solid #ddd;">
     <a href="/" style="margin-right: 20px;">Home</a>
     <a href="code-review.html" style="margin-right: 20px;">Code Review</a>
