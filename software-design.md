@@ -1,3 +1,14 @@
+<nav style="display:flex; justify-content:space-between; align-items:center; padding:12px 0; border-bottom:1px solid #ccc; font-size:18px;">
+  <div style="display:flex; gap:20px;">
+    <a href="/">Home</a>
+    <a href="/code-review.html">Code Review</a>
+    <a href="/software-design">Software Design</a>
+    <a href="/algorithms">Algorithms & Data</a>
+    <a href="/databases">Databases</a>
+  </div>
+  <div style="font-weight:bold;">Zeb Hawthorne</div>
+</nav>
+
 # Software Design and Engineering
 
 The artifact I chose for this category is my Contact Management project from CS-320. It is a small Java application that stores basic contact information and includes JUnit tests to verify each feature. I originally created it in June 2024 as part of the module project focused on testing, validation, and basic object-oriented design.
