@@ -1,9 +1,8 @@
 <nav style="background-color:#f5f5f5; padding: 10px; border-bottom: 1px solid #ddd;">
     <a href="/" style="margin-right: 20px;">Home</a>
     <a href="code-review.html" style="margin-right: 20px;">Code Review</a>
-    <a href="algorithms" style="margin-right: 20px;">Algorithms & Data Structures</a>
+    <a href="software-design" style="margin-right: 20px;">Software Design</a>
     <a href="databases" style="margin-right: 20px;">Databases</a>
-
     <!-- Right-aligned name -->
     <span style="float:right; font-weight:bold;">Zeb Hawthorne</span>
 </nav>
