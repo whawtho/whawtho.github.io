@@ -11,5 +11,4 @@ While enhancing this artifact, I was able to revisit old code with fresh eyes an
 ## Artifact Files
 - [**Original project folder**](https://github.com/whawtho/whawtho.github.io/tree/Software-Design-&-Engineering-Artifact/Milestone_Two_Artifact_Original)
 
-- **Enhanced project folder**  
-  https://github.com/whawtho/whawtho.github.io/tree/Software-Design-&-Engineering-Artifact/enhanced
+- [**Enhanced project folder**](https://github.com/whawtho/whawtho.github.io/tree/Software-Design-&-Engineering-Artifact/Milestone_Two_Artifact_Enhanced)
